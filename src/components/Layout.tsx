@@ -11,8 +11,7 @@ import {
   Menu,
   X,
   Bell,
-  ArrowUpRight,
-} from "lucide-react";
+  } from "lucide-react";
 import { GlobalSearch } from "./GlobalSearch";
 import { useAppData } from "../context/AppDataContext";
 
